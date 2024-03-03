@@ -1,5 +1,7 @@
 # CS-210-Portfolio
+
 Cody VanGosen CS-210 03/02/2024
+
 This is a repository of my project files and final submission for my final portfolio for the CS-210 Class at SNHU.
 
 Summarize the project and what problem it was solving.
