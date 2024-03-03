@@ -1,0 +1,3 @@
+﻿  ProjectTwo.cpp
+C:\Users\codyv\OneDrive\Desktop\SNHU HW\CS-210-R3202 Programming Languages 24EW3\Module Five\ProjectTwo\ProjectTwo\ProjectTwo.cpp(94,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ProjectTwo.vcxproj -> C:\Users\codyv\OneDrive\Desktop\SNHU HW\CS-210-R3202 Programming Languages 24EW3\Module Five\ProjectTwo\x64\Debug\ProjectTwo.exe
